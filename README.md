@@ -45,7 +45,6 @@ The goal is to convert raw data into meaningful insights for better decision-mak
 ---
 
 ## 📂 Files Included
-- `Superstore_Sales_Dashboard.xlsx` (Excel Dashboard)
 - `Superstore_Sales_Dashboard.pbix` (Power BI Dashboard - optional)
 - `dashboard.png` (Dashboard Screenshot)
 
